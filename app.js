@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 
 
 const app = express();
-const port = 5002;
+const port = 5005;
 
 
 // Set EJS as templating engine
